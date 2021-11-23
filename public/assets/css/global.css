@@ -1,0 +1,13 @@
+input{
+    padding: 0.2rem 1rem;
+
+}
+
+.logo-image {
+    height: 50px;
+}
+
+main {
+    min-height: calc(100vh - 200px);
+}
+
